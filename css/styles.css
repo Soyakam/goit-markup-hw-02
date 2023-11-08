@@ -1,6 +1,9 @@
 body{
-    font-family: "Robotto";
-    color: background: #FFFFFF;
+    font-family:  "Roboto", sans-serif;
+    background-color:  #FFFFFF;
     font-size: 36px;
     line height: 1.5;
-    }  
+    font-family: "Roboto";
+    color: #434455;
+   
+       }  
