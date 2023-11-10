@@ -1,6 +1,8 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 .link{
     text-decoration: none;
@@ -13,8 +15,8 @@ body{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
-    letter-spacing: -0.03em;
+    line-height: 1.17; /* 116.667% */
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 color: rgba(77, 90, 229, 1);
 }
