@@ -49,10 +49,10 @@ letter-spacing: 0.02em;
    color: #404bbf;
  }
  .first{
-    background: var(--NAVY-BLUE, #2E2F42);
+    background: #2E2F42;
  }
  .title{
-    color: #FFF;
+color: #ffffff;
 text-align: center;
 font-size: 56px;
 font-style: normal;
@@ -72,5 +72,9 @@ font-weight: 500;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.04em;
 background: #4D5AE5;
-
+cursor: pointer;
+}
+.button, :hover,
+.button, :focus{
+    background:  #404BBF;
 }
