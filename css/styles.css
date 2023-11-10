@@ -69,7 +69,6 @@ letter-spacing: 0.02em;
  .button{
     color: #FFF;
 font-size: 16px;
-
 font-weight: 500;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.04em;
@@ -81,7 +80,7 @@ cursor: pointer;
     background:  #404BBF;
 }
 .title-colum{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:  #2E2F42;
 
     /* Header 3 */
     font-family: 'Roboto', sans-serif;
