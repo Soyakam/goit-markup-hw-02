@@ -2,9 +2,11 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-
-.other-name{
-color: rgba(46, 47, 66, 1);
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style-type: none;
 }
 .logo{
     
@@ -12,7 +14,29 @@ color: rgba(46, 47, 66, 1);
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16; /* 116.667% */
-    letter-spacing: 0.54px;
+    letter-spacing: -0.03em;
     text-transform: uppercase;
 color: rgba(77, 90, 229, 1);
 }
+.other-name{
+    color: rgba(46, 47, 66, 1);
+    }
+    .menu-link{
+ font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.50; /* 150% */
+letter-spacing: 0.02em;
+color:#2e2f42;
+    }
+    .link-conact{
+        color: var(--SLATE, #434455);
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+
+    }
