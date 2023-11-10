@@ -70,7 +70,7 @@ letter-spacing: 0.02em;
     color: #FFF;
 font-size: 16px;
 font-weight: 500;
-line-height: 1.50; /* 150% */
+line-height: 1.5; /* 150% */
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
 cursor: pointer;
@@ -87,7 +87,7 @@ cursor: pointer;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.20; /* 120% */
+    line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -99,7 +99,7 @@ cursor: pointer;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.50; /* 150% */
+    line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
     color:#434455;
     
