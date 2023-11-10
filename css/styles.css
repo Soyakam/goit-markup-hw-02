@@ -36,7 +36,7 @@ color:#2e2f42;
     }
     .link-conact{
  color: #434455;
-font-family: Roboto;
+ font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -55,7 +55,7 @@ letter-spacing: 0.02em;
    color: #ffffff;
 text-align: center;
 font-size: 56px;
-font-style: normal;
+
 font-weight: 700;
 line-height: 1.07; /* 107.143% */
 letter-spacing: 0.02em;
@@ -67,7 +67,7 @@ letter-spacing: 0.02em;
  .button{
     color: #FFF;
 font-size: 16px;
-font-style: normal;
+
 font-weight: 500;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.04em;
@@ -82,7 +82,7 @@ cursor: pointer;
     color: var(--NAVY-BLUE, #2E2F42);
 
     /* Header 3 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
