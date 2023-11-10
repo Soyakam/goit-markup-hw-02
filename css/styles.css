@@ -52,18 +52,18 @@ letter-spacing: 0.02em;
     background: #2E2F42;
  }
  .title{
-   color: #ffffff;
-text-align: center;
-font-size: 56px;
+    color:#FFF;
+    
+    /* Header 1 */
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07; /* 107.143% */
+    letter-spacing: 0.02em;
+ }
 
-font-weight: 700;
-line-height: 1.07; /* 107.143% */
-letter-spacing: 0.02em;
- }
- .title, :hover,
- .title, :focus{
-    color: #404bbf;
- }
+ 
  .button{
     color: #FFF;
 font-size: 16px;
