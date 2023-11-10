@@ -52,7 +52,7 @@ letter-spacing: 0.02em;
     background: #2E2F42;
  }
  .title{
-    color: #ffffff ;
+   color: #ffffff;
 text-align: center;
 font-size: 56px;
 font-style: normal;
@@ -77,4 +77,29 @@ cursor: pointer;
 .button, :hover,
 .button, :focus{
     background:  #404BBF;
+}
+.title-colum{
+    color: var(--NAVY-BLUE, #2E2F42);
+
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.colum-nfo{
+    color: #434455;
+
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.50; /* 150% */
+    letter-spacing: 0.02em;
+    color:#434455;
+    
 }
