@@ -31,14 +31,20 @@ line-height: 1.50; /* 150% */
 letter-spacing: 0.02em;
 color:#2e2f42;
     }
+    .contact-info{
+        font-style: normal;
+    }
     .link-conact{
-        color: var(--SLATE, #434455);
+        color: #434455;
 /* Body */
 font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
-
-    }
+ line-height: 1.5; /* 150% */
+letter-spacing: 0.02em;
+ }
+ .link-conact, :hover,
+ .link-conact, :focus{
+   color: #404bbf;
+ }
