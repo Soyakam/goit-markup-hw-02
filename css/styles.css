@@ -58,20 +58,19 @@ font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.07; /* 107.143% */
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
+ }
+ .title, :hover,
+ .title, :focus{
+    color: #404bbf;
  }
  .button{
-    color: var(--WHITE, #FFF);
+    color: #FFF;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.04em;
-display: inline-flex;
-padding: 16px 32px;
-align-items: flex-start;
-gap: 10px;
-border-radius: 4px;
 background: #4D5AE5;
-box-shadow: rgba(0, 0, 0, 0.15);
+
 }
