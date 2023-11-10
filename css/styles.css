@@ -52,7 +52,7 @@ letter-spacing: 0.02em;
     background: #2E2F42;
  }
  .title{
-color: #ffffff;
+    color: #ffffff ;
 text-align: center;
 font-size: 56px;
 font-style: normal;
@@ -71,7 +71,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.04em;
-background: #4D5AE5;
+background-color: #4D5AE5;
 cursor: pointer;
 }
 .button, :hover,
