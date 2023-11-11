@@ -85,7 +85,7 @@ letter-spacing: 0.02em;
 
  
  .button{
-    color:#FFF;
+    background-color: #4D5AE5;
 
     /* Button Text */
     font-family: 'Roboto', sans-serif;
