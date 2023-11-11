@@ -93,9 +93,9 @@ letter-spacing: 0.02em;
    
     cursor: pointer;
 }
-.button,:hover,
-.button, :focus{
-    background-color: #404BBF
+.button:hover,
+.button :focus{
+    background-color: #404BBF;
 }
 .title-colum{
     color:  #2E2F42;
