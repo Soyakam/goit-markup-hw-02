@@ -128,7 +128,7 @@ letter-spacing: 0.02em;
     background-color: #F4F4FD;
 }
 .team{
-    background-color: #FFFFFF;
+    background-color: #FFFFFF
 }
 .our-team{
     color: #2E2F42;
@@ -142,9 +142,7 @@ text-transform: capitalize;
 background-color: #F4F4FD;
 }
 .photo{
-  
-
-background:#FFF;
+  background:#FFF;
 justify-content: center;
 background-color: #FFFFFF
 
