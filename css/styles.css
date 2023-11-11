@@ -4,6 +4,7 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
+
 .link{
     text-decoration: none;
 }
@@ -12,42 +13,52 @@ body{
 
 }
 .main-navigation{
-    
+    background: var(--WHITE, #FFF);
 }
 .logo{
+   align-items: center;
+   color: var(--IRIS, #4D5AE5);
+   font-family: 'Raleway', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 1.16; /* 116.667% */
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
     
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-color: #4d5ae5;
-background-color:#2e2f42;
+
 }
 .other-name{
-    color: #2e2f42;
-    
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: 'Raleway', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; /* 116.667% */
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
     }
     .menu-link{
- font-family: 'Roboto', sans-serif;
+        color: var(--NAVY-BLUE, #2E2F42);
+/* Body Medium */
+font-family: 'Roboto', sans-serif;
 font-size: 16px;
+
 font-weight: 500;
-line-height: 1.5; /* 150% */
+line-height: 1.50; /* 150% */
 letter-spacing: 0.02em;
-color: #434455;
+ 
     }
-    .contact-info{
-        font-style: normal;
-    }
+    
+    
     .link-conact{
- color: #434455;
- font-family: 'Roboto', sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
- line-height: 1.5; /* 150% */
-letter-spacing: 0.02em;
+        color: var(--SLATE, #434455);
+
+        /* Body */
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.50; /* 150% */
+        letter-spacing: 0.02em;
  }
 
  .link-conact, :hover,
