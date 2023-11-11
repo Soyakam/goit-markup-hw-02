@@ -84,11 +84,9 @@ letter-spacing: 0.02em;
  }
 
  
- .button{
-    background-color: #4D5AE5;
-
-    /* Button Text */
-    font-family: 'Roboto', sans-serif;
+ .butt{
+    color:#ffffff;
+     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -97,9 +95,9 @@ letter-spacing: 0.02em;
     background-color: #4D5AE5;
     cursor: pointer;
 }
-.button,:hover,
-.button, :focus{
-    background:  #404BBF;
+.butt,:hover,
+.butt, :focus{
+    background-color: #404BBF
 }
 .title-colum{
     color:  #2E2F42;
