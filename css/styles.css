@@ -9,6 +9,10 @@ body{
 }
 .list{
     list-style-type: none;
+
+}
+.main-navigation{
+    
 }
 .logo{
     
@@ -22,8 +26,8 @@ color: rgba(77, 90, 229, 1);
 background-color:#2e2f42;
 }
 .other-name{
-   
-    color: rgb(242, 242, 253)
+    color: #2e2f42;
+    
     }
     .menu-link{
  font-family: 'Roboto', sans-serif;
@@ -31,7 +35,7 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
-color:#2e2f42;
+color: #434455;
     }
     .contact-info{
         font-style: normal;
@@ -201,6 +205,12 @@ letter-spacing: 0.02em;
     font-weight: 400;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;
+}
+.land{
+    background-color:#2e2f42;
+}
+.other-name-land{
+    color: #f4f4fd
 }
 .text-of-land{
     color: var(--CLOUD, #F4F4FD);
