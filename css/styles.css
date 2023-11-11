@@ -122,8 +122,8 @@ text-transform: capitalize;
 background-color: #F4F4FD;
 }
 .photo{
-    display: inline-flex;
-padding-bottom: 0px;
+  
+
 background:#FFF;
 justify-content: center;
 background-color: #FFFFFF
