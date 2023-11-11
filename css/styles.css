@@ -19,9 +19,11 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 color: rgba(77, 90, 229, 1);
+background-color:#2e2f42;
 }
 .other-name{
-    color: rgba(46, 47, 66, 1);
+   
+    color: rgb(242, 242, 253)
     }
     .menu-link{
  font-family: 'Roboto', sans-serif;
