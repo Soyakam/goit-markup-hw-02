@@ -104,10 +104,12 @@ cursor: pointer;
     color:#434455;
     
 }
+.folks{
+    background-color: #F4F4FD;
+}
 .team{
     background-color: #FFFFFF;
 }
-
 .our-team{
     color: #2E2F42;
 text-align: center;
@@ -140,7 +142,7 @@ line-height: 1.20; /* 120% */
 letter-spacing: 0.02em;
 }
 .tape-of-work{
-    color: var(--SLATE, #434455);
+    color:  #434455;
     text-align: center;
     
     /* Body */
