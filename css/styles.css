@@ -200,3 +200,14 @@ letter-spacing: 0.02em;
     line-height: 1.50; /* 150% */
     letter-spacing: 0.02em;
 }
+.text-of-land{
+    color: var(--CLOUD, #F4F4FD);
+
+/* Body */
+font-family: 'Roboto', sans-serif;;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.50; /* 150% */
+letter-spacing: 0.02em;
+}
