@@ -48,16 +48,16 @@ line-height: 1.50; /* 150% */
 letter-spacing: 0.02em;
  
     }
-    
+    .contact-info{
+    font-style: normal;
+    }
     
     .link-conact{
-        color: var(--SLATE, #434455);
-
-        /* Body */
+        color: #434455;
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-weight: 400;
-        line-height: 1.50; /* 150% */
+        line-height: 1.5; /* 150% */
         letter-spacing: 0.02em;
  }
 
@@ -94,7 +94,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04px;
     background-color: #4D5AE5;
 }
-.button, :hover,
+.button,:hover,
 .button, :focus{
     background:  #404BBF;
 }
